@@ -1,0 +1,54 @@
+body {
+    color: #282425;
+    background-color: #fff1e6;
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+
+}
+
+h1,
+h2,
+h3,
+a {
+    color: #756158;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Playfair display";
+    font-style: italic;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 48px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+a {
+    font-style: italic;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+
+.fotogalerie,
+.kontakt {
+    background-color:#f9e3d0
+}
+
+.paticka {
+    background-color:#282425;
+    color: white;
+    text-align: center;
+}
